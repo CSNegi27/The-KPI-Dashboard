@@ -1,0 +1,15 @@
+// Header.scss
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #f7f7f7;
+    input {
+      padding: 5px;
+    }
+    .profile-icon img {
+      width: 40px;
+      border-radius: 50%;
+    }
+  }
+  
